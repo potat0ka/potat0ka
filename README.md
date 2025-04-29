@@ -79,11 +79,11 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potat0ka/potat0ka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potat0ka/potat0ka/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/potat0ka/potat0ka/output/github-snake.svg" onerror="this.src='https://via.placeholder.com/150?text=Snake+Animation+Unavailable';" />
+  </picture>
 </div>
 
 🌟🌟🌟
