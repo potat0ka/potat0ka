@@ -28,7 +28,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://media3.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="150" alt="Anime character coding GIF" style="border: 2px solid #444; border-radius: 5px;" />
+  <img src=".github/workflows/9sb0ho.gif" height="150" alt="Anime character coding GIF" style="border: 2px solid #444; border-radius: 5px;" />
 </div>
 </div>
 
