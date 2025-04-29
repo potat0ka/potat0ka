@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate snake gif
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game from Contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: potat0ka
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Push the Snake game to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
