@@ -43,8 +43,10 @@
 </div>
 
 🌟🌟🌟
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-UNKNOWN)
+## 🖥️ Terminal
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF4D94&center=true&vCenter=true&width=480&lines=console.log(%22Hey%2C+I'm+Bigendra%22)%3B;%3E+status%3A+fresher+%2F%2F+still+learning;%3E+stack%3A+Python+%2B+n8n+%2B+curiosity;%3E+building+confidence.exe...+running" alt="Terminal typing animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=potat0ka&icon=0&color=0)](https://visitcount.itsvg.in)
