@@ -27,12 +27,14 @@
 
 🌟🌟🌟
 
-🔭 **I'm currently working on**: Automation workflows with n8n and my personal portfolio at [bigendra.com.np](https://www.bigendra.com.np) — learning as I go after graduating BCA from Tribhuvan University.  
-👯 **I'm looking to collaborate on**: Beginner-friendly Python, automation, or data projects where I can learn by doing.  
-🤝 **I'm looking for help with**: Improving my coding skills and growing as a developer — I'm still building confidence, so patient collaborators welcome!  
-🌱 **I'm currently learning**: Python, n8n automation, and Generative AI basics.  
-💬 **Ask me about**: My BCA journey or what I'm learning right now!  
-⚡ **Fun fact**: I celebrated cracking my first Python code at Nobel Navigators by binge-watching *Demon Slayer*!  
+<ul>
+<li>🔭 <b>I'm currently working on:</b> Automation workflows with n8n and my personal portfolio at <a href="https://www.bigendra.com.np">bigendra.com.np</a> — learning as I go after graduating BCA from Tribhuvan University.</li>
+<li>👯 <b>I'm looking to collaborate on:</b> Beginner-friendly Python, automation, or data projects where I can learn by doing.</li>
+<li>🤝 <b>I'm looking for help with:</b> Improving my coding skills and growing as a developer — I'm still building confidence, so patient collaborators welcome!</li>
+<li>🌱 <b>I'm currently learning:</b> Python, n8n automation, and Generative AI basics.</li>
+<li>💬 <b>Ask me about:</b> My BCA journey or what I'm learning right now!</li>
+<li>⚡ <b>Fun fact:</b> I celebrated cracking my first Python code at Nobel Navigators by binge-watching <i>Demon Slayer</i>!</li>
+</ul>
 
 <div align="center">
   <div align="center">
@@ -42,7 +44,7 @@
 
 🌟🌟🌟
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-?)
+![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=potat0ka&icon=0&color=0)](https://visitcount.itsvg.in)
