@@ -44,13 +44,13 @@
 
 🌟🌟🌟
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-%3F)
+![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-UNKNOWN)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=potat0ka&icon=0&color=0)](https://visitcount.itsvg.in)
 🌟🌟🌟
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=potat0ka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="GitHub contribution streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=potat0ka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="140" alt="Top programming languages graph" />
 </div>
