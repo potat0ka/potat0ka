@@ -19,11 +19,11 @@
 ## 💫 About Me
 🌟🌟🌟
 
-🔭 **I’m currently working on**: My internship at Nobel Navigators and final BCA semester, diving into tech and leadership skills.  
-👯 **I’m looking to collaborate on**: Python or data science projects for real-world impact.  
-🤝 **I’m looking for help with**: Mastering Python and landing data science internships/traineeships/jobs.  
-🌱 **I’m currently learning**: Python and data science basics via Nobel Navigators’ courses and YouTube.  
-💬 **Ask me about**: My Nobel Navigators internship or my BCA journey!  
+🔭 **I'm currently working on**: My AI Phishing Detection Platform (Flask + MongoDB + ML) and my personal portfolio at [bigendra.com.np](https://www.bigendra.com.np), while job-hunting after graduating BCA from Tribhuvan University.  
+👯 **I'm looking to collaborate on**: Python, AI/ML, or full-stack data-driven projects for real-world impact.  
+🤝 **I'm looking for help with**: Landing an AI/ML or software development internship/role.  
+🌱 **I'm currently learning**: Generative AI and deepening my ML skills with scikit-learn and NLTK.  
+💬 **Ask me about**: My AI Phishing Detection Platform or my BCA journey!  
 ⚡ **Fun fact**: I celebrated cracking my first Python code at Nobel Navigators by binge-watching *Demon Slayer*!  
 
 <div align="center">
@@ -34,7 +34,7 @@
 
 🌟🌟🌟
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=potat0ka&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -49,6 +49,10 @@
 
 ## 🛠️ Skills
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
@@ -57,7 +61,13 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
 </div>
 
 🌟🌟🌟
