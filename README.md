@@ -17,13 +17,21 @@
 <h1 align="center">Hey There 👋</h1>
 
 ## 💫 About Me
+<img 
+  src=".github/workflows/mascot.png" 
+  align="right" 
+  height="140" 
+  alt="Cute potato mascot sticker"
+  style="border: 3px solid #ff4d94; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"
+/>
+
 🌟🌟🌟
 
-🔭 **I'm currently working on**: My AI Phishing Detection Platform (Flask + MongoDB + ML) and my personal portfolio at [bigendra.com.np](https://www.bigendra.com.np), while job-hunting after graduating BCA from Tribhuvan University.  
-👯 **I'm looking to collaborate on**: Python, AI/ML, or full-stack data-driven projects for real-world impact.  
-🤝 **I'm looking for help with**: Landing an AI/ML or software development internship/role.  
-🌱 **I'm currently learning**: Generative AI and deepening my ML skills with scikit-learn and NLTK.  
-💬 **Ask me about**: My AI Phishing Detection Platform or my BCA journey!  
+🔭 **I'm currently working on**: Automation workflows with n8n and my personal portfolio at [bigendra.com.np](https://www.bigendra.com.np) — learning as I go after graduating BCA from Tribhuvan University.  
+👯 **I'm looking to collaborate on**: Beginner-friendly Python, automation, or data projects where I can learn by doing.  
+🤝 **I'm looking for help with**: Improving my coding skills and growing as a developer — I'm still building confidence, so patient collaborators welcome!  
+🌱 **I'm currently learning**: Python, n8n automation, and Generative AI basics.  
+💬 **Ask me about**: My BCA journey or what I'm learning right now!  
 ⚡ **Fun fact**: I celebrated cracking my first Python code at Nobel Navigators by binge-watching *Demon Slayer*!  
 
 <div align="center">
@@ -34,7 +42,7 @@
 
 🌟🌟🌟
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=potat0ka&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-?)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=potat0ka&icon=0&color=0)](https://visitcount.itsvg.in)
