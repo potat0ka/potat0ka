@@ -57,6 +57,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=potat0ka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="140" alt="Top programming languages graph" />
 </div>
 
+<div align="center">
+  <a href="https://gitfut.com/potat0ka">
+    <img
+      src="https://gitfut.com/potat0ka.png"
+      width="320"
+      alt="GitFut Player Card"
+    />
+  </a>
+</div>
+
 🌟🌟🌟
 
 ## 🛠️ Skills
